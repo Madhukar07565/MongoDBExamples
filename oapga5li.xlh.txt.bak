@@ -1,0 +1,22 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   src/main/java/com/mongodb/HelloWorldMongoDBStyle.java
+#	new file:   src/main/java/com/mongodb/HelloWorldMongoSparkFreeMarkerStyle.java
+#	new file:   src/main/java/com/mongodb/MongoDocumentrepresentation.java
+#	new file:   src/main/java/com/mongodb/MongoFind.java
+#	new file:   src/main/java/com/mongodb/MongoFindWithFilter.java
+#	new file:   src/main/java/com/mongodb/MongoInsert.java
+#	new file:   src/main/java/com/mongodb/MongoSortSkipLimit.java
+#	new file:   src/main/java/com/mongodb/MongoUpdateReplace.java
+#	modified:   target/classes/META-INF/maven/com.mongodb/M101J/pom.properties
+#
+# Untracked files:
+#	.gitignore
+#	p2g11okl.01s.txt.bak
+#
+

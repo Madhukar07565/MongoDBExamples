@@ -1,0 +1,53 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#	new file:   .classpath
+#	new file:   .project
+#	new file:   .settings/org.eclipse.core.resources.prefs
+#	new file:   .settings/org.eclipse.jdt.core.prefs
+#	new file:   .settings/org.eclipse.m2e.core.prefs
+#	deleted:    SparkWithFreeMarkerSample
+#	new file:   bin/com/mongodb/App.class
+#	new file:   bin/com/mongodb/AppTest.class
+#	new file:   bin/com/mongodb/HelloWorldSparkStyle.class
+#	modified:   pom.xml
+#	new file:   target/M101J-1.0-SNAPSHOT.jar
+#	new file:   target/classes/Hello.ftl
+#	new file:   target/classes/META-INF/MANIFEST.MF
+#	new file:   target/classes/META-INF/maven/com.mongodb/M101J/pom.properties
+#	new file:   target/classes/META-INF/maven/com.mongodb/M101J/pom.xml
+#	new file:   target/classes/com/mongodb/App.class
+#	new file:   target/classes/com/mongodb/HelloWorldFreemarkerStyle.class
+#	new file:   target/classes/com/mongodb/HelloWorldSparkStyle$1.class
+#	new file:   target/classes/com/mongodb/HelloWorldSparkStyle.class
+#	new file:   target/classes/com/mongodb/HelloWorldSparkfreemarkerStyle$1.class
+#	new file:   target/classes/com/mongodb/HelloWorldSparkfreemarkerStyle.class
+#	new file:   target/classes/com/mongodb/SparkFormHandling$1.class
+#	new file:   target/classes/com/mongodb/SparkFormHandling$2.class
+#	new file:   target/classes/com/mongodb/SparkFormHandling.class
+#	new file:   target/classes/com/mongodb/SparkRoutes$1.class
+#	new file:   target/classes/com/mongodb/SparkRoutes$2.class
+#	new file:   target/classes/com/mongodb/SparkRoutes$3.class
+#	new file:   target/classes/com/mongodb/SparkRoutes.class
+#	new file:   target/classes/fruitPicker.ftl
+#	new file:   target/maven-archiver/pom.properties
+#	new file:   target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+#	new file:   target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+#	new file:   target/surefire-reports/TEST-com.mongodb.AppTest.xml
+#	new file:   target/surefire-reports/com.mongodb.AppTest.txt
+#	new file:   target/test-classes/com/mongodb/AppTest.class
+#
+# Untracked files:
+#	.gitignore
+#	src/main/java/com/mongodb/HelloWorldMongoDBStyle.java
+#	src/main/java/com/mongodb/HelloWorldMongoSparkFreeMarkerStyle.java
+#	src/main/java/com/mongodb/MongoDocumentrepresentation.java
+#	src/main/java/com/mongodb/MongoFind.java
+#	src/main/java/com/mongodb/MongoFindWithFilter.java
+#	src/main/java/com/mongodb/MongoInsert.java
+#	src/main/java/com/mongodb/MongoSortSkipLimit.java
+#	src/main/java/com/mongodb/MongoUpdateReplace.java
+#
+
